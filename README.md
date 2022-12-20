@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<figure><embed src="https://wakatime.com/share/@f285e0a1-9f37-43f1-a746-0db3cb934ce7/7c2d4970-b780-44d2-be55-ac187e5d3d17.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f285e0a1-9f37-43f1-a746-0db3cb934ce7/0db378b4-9574-42ea-993e-67eeef6ffae7.png" /></a>
 
 
 
