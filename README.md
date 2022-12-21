@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f285e0a1-9f37-43f1-a746-0db3cb934ce7/0db378b4-9574-42ea-993e-67eeef6ffae7.png" /></a>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@f285e0a1-9f37-43f1-a746-0db3cb934ce7/727e187e-af59-4701-9d05-4a3e88946890.png" /></a><a href="https://wakatime.com"><img src="https://wakatime.com/share/@f285e0a1-9f37-43f1-a746-0db3cb934ce7/689be3f5-7066-4c73-954b-8d294b06fc51.png" /></a>
 
 
 <!--
