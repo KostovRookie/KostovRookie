@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://wakatime.com/@f285e0a1-9f37-43f1-a746-0db3cb934ce7"><img src="https://wakatime.com/badge/user/f285e0a1-9f37-43f1-a746-0db3cb934ce7.svg" alt="Total time coded since Dec 20 2022" /></a>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@f285e0a1-9f37-43f1-a746-0db3cb934ce7/14ca5839-8568-4391-b31c-e3df1d5ed124.png" /></a><img src="https://wakatime.com/share/@f285e0a1-9f37-43f1-a746-0db3cb934ce7/689be3f5-7066-4c73-954b-8d294b06fc51.png" /></a>
 
