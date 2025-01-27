@@ -2,7 +2,7 @@
 ** Total time coded since 20.12.2022
 <a href="https://wakatime.com/@f285e0a1-9f37-43f1-a746-0db3cb934ce7"><img src="https://wakatime.com/badge/user/f285e0a1-9f37-43f1-a746-0db3cb934ce7.svg" alt="Total time coded since Dec 20 2022" /></a>
 
-//
+<figure><embed src="https://wakatime.com/share/@KostovDev/5864eed6-fdd9-4600-8bfa-a83d049bd943.svg"></embed></figure>
 
 
 <!--
