@@ -4,6 +4,8 @@
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@KostovDev/61333c1e-e653-45f1-8c9c-5ddddeb77cbc.png" /></a>
 
+
+<figure><embed src="https://wakatime.com/share/@KostovDev/225f944c-cc6a-4341-9c7e-aaa058f9991e.svg"></embed></figure>
 <!--
 **KostovRookie/KostovRookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
